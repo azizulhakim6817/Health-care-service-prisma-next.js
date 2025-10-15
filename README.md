@@ -7,6 +7,7 @@
 3. branch switch --> git checkout module-57
 4. delete --> at first switch --> (\*main) branch go then remove --->
    -> git branch -D module-57
+5. branch (rename) --> git branch -m module-58
 
 ### 1. packages => password hash -> bcryptjs (ts)
 

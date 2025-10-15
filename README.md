@@ -1,5 +1,13 @@
 # Packages :
 
+# git branch ---> create and switch --->
+
+1. create branch --> git branch module-57
+2. all show branch --> git branch
+3. branch switch --> git checkout module-57
+4. delete --> at first switch --> (\*main) branch go then remove --->
+   -> git branch -D module-57
+
 ### 1. packages => password hash -> bcryptjs (ts)
 
        -> npm install bcryptjs
